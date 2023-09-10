@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+
+    <!-- Messages -->
+    <string name="invalid_expression_message">Invalid expression</string>
+    <string name="title_activity_main2">MainActivity</string>
+</resources>
